@@ -1,13 +1,13 @@
-### Hey there, I'm Harry Yu! 👋
+### Hi there, I'm Harry Yu! 👋
 Welcome to my GitHub profile where I store all sorts of programming projects (and steal storage from GitHub to store my files), look around, I hope it be a mildly amusing experience. 
 
-### Chronicles 📜
+### Journey 📜
 Started off with Racket (yeah, who need loops when you have recursion), graduated to C to learn about how the memory actually works, and then Python for a bit of everything. Nowadays, I'm working with TypeScript and React for web development because ~~they are popular~~ of the great community.
 
-### My Projetcs 🎵
-Tic-tac-toe in C? Yep, been there, done that. As wel as a Python trading bot, spoiler alert, no, I didn't profit. But hey, I've also build a full-stack app for managing recipes and grocery lists because, you know, life.
+### Projetcs 🎵
+Tic-tac-toe in C? Yep, been there, done that. As well as a Python trading bot, spoiler alert, no, I didn't profit. But hey, I've also build a full-stack app for managing recipes and grocery lists because, you know, life.
 
-### On the Hunt 🎯
+### Open to work 🎯
 I'm currently on the lookout for a front-end position, preferably with React and TypeScript in the mix. But, I'm open to any opportunities. If you're hiring, let's chat!
 
 ### Stay Connected 🌐
