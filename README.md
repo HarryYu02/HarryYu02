@@ -1,18 +1,18 @@
 ### Hey there, I'm Harry Yu! 👋
-So, you stumbled upon my GitHub lair, huh? Welcome! I'm just a regular ol' code enthusiast, navigating the wild seas of programming since my high school days.
+Welcome to my GitHub profile where I store all sorts of programming projects (and steal storage from GitHub to store my files), look around, I hope it be a mildly amusing experience. 
 
 ### Chronicles 📜
-Started off with Racket (yeah, that funky language where loops are like unicorns), graduated to C for some serious memory gymnastics, and then Python for a bit of everything. Nowadays, I'm cozying up to TypeScript and React for my web dev adventures.
+Started off with Racket (yeah, who need loops when you have recursion), graduated to C to learn about how the memory actually works, and then Python for a bit of everything. Nowadays, I'm working with TypeScript and React for web development because ~~they are popular~~ of the great community.
 
-### Greatest Hits 🎵
-Remember tic-tac-toe in C? Yep, been there, done that. And the Python trading bot? Let's just say Wall Street didn't roll out the red carpet. But hey, I've also whipped up a nifty full-stack app for managing recipes and grocery lists.
+### My Projetcs 🎵
+Tic-tac-toe in C? Yep, been there, done that. As wel as a Python trading bot, spoiler alert, no, I didn't profit. But hey, I've also build a full-stack app for managing recipes and grocery lists because, you know, life.
 
 ### On the Hunt 🎯
-I'm currently on the lookout for a front-end position, preferably with React and TypeScript in the mix. But hey, I'm flexible! If you're in need of a coding extraordinaire, let's chat!
+I'm currently on the lookout for a front-end position, preferably with React and TypeScript in the mix. But, I'm open to any opportunities. If you're hiring, let's chat!
 
 ### Stay Connected 🌐
 📫 Drop me a line: harryyu02@gmail.com  
-💼 Check out my website: [harry-yu.com](https://www.harry-yu.com)  
+💼 Check out my website: [www.harry-yu.com](https://www.harry-yu.com)  
 
 <!-- Your future begins here. -->
 Now, grab a cup of coffee and dive into the GitHub rabbit hole that is Harry Yu. The adventure awaits! 🚀
