@@ -10,7 +10,7 @@ Remember tic-tac-toe in C? Yep, been there, done that. And the Python trading bo
 ### On the Hunt 🎯
 I'm currently on the lookout for a front-end position, preferably with React and TypeScript in the mix. But hey, I'm flexible! If you're in need of a coding extraordinaire, let's chat!
 
-Stay Connected 🌐
+### Stay Connected 🌐
 📫 Drop me a line: harryyu02@gmail.com
 💼 Check out my website: [harry-yu.com](https://www.harry-yu.com)
 
