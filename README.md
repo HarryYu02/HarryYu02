@@ -14,8 +14,7 @@ I'm currently on the lookout for a front-end position, preferably with React and
 📫 Drop me a line: harryyu02@gmail.com  
 💼 Check out my website: [www.harry-yu.com](https://www.harry-yu.com)  
 
-<!-- Your future begins here. -->
-Now, grab a cup of coffee and dive into the GitHub rabbit hole that is Harry Yu. The adventure awaits! 🚀
+That's it, thank you.  
 
 <!--
 **HarryYu02/HarryYu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
