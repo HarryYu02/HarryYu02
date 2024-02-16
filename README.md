@@ -11,8 +11,8 @@ Remember tic-tac-toe in C? Yep, been there, done that. And the Python trading bo
 I'm currently on the lookout for a front-end position, preferably with React and TypeScript in the mix. But hey, I'm flexible! If you're in need of a coding extraordinaire, let's chat!
 
 ### Stay Connected 🌐
-📫 Drop me a line: harryyu02@gmail.com
-💼 Check out my website: [harry-yu.com](https://www.harry-yu.com)
+📫 Drop me a line: harryyu02@gmail.com  
+💼 Check out my website: [harry-yu.com](https://www.harry-yu.com)  
 
 <!-- Your future begins here. -->
 Now, grab a cup of coffee and dive into the GitHub rabbit hole that is Harry Yu. The adventure awaits! 🚀
