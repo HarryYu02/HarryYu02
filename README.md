@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Harry Yu 👋  
+
+I've been enjoying programming since high school, I first learn programming basics in Racket (a functional programming language, in short: loops doesn't exist, it's all recursion). I actually learn how computer and memory works by learning C, and data structure and algorithms in Python. Now, I do web development Typescript and React because they are popular... As you might tell, I love learning new technologies, and I keep developing programs to solve my problems: from tic-tac-toe in C, a Python trading bot (no, I didn't profit), to a full stack web application that I can keep track of my recipes and create grocery list. I am currently on the look out for a role in frontend web development, ideally in React and Typescript, but I am open to all kinds of opportunities. If you're hiring, let's chat!
 
 <!--
 **HarryYu02/HarryYu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
