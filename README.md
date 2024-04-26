@@ -11,5 +11,5 @@ Tic-tac-toe in C? Yep, been there, done that. As well as a Python trading bot, s
 I'm currently on the lookout for a front-end position, preferably with React and TypeScript in the mix. But, I'm open to any opportunities. If you're hiring, let's chat!
 
 ### Stay Connected 🌐
-📫 Drop me a line: harryyu02@gmail.com  
+📫 Drop me a line: contact@harry-yu.com  
 💼 Check out my website: [www.harry-yu.com](https://www.harry-yu.com)  
