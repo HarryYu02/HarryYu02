@@ -1,5 +1,5 @@
 ### Hi there, I'm Harry Yu! 👋
-Welcome to my GitHub profile where I store all sorts of programming projects (and steal storage from GitHub to store my files), click around, I hope it will be a mildly amusing experience for you (I call it managing expectation). 
+Welcome to my GitHub profile where I store all sorts of programming projects (and steal storage from GitHub to store my files), click around and enjoy. 
 
 ### Journey 📜
 Started off with Racket (yeah, who need loops when you have recursion), graduated to C to learn about how the memory actually works, and then Python for a bit of everything. Nowadays, I'm working with TypeScript and React for web development because ~~they are popular~~ of the great community.
