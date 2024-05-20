@@ -12,4 +12,4 @@ I'm currently on the lookout for a front-end position, preferably with React and
 
 ### Stay Connected 🌐
 📫 Drop me a line: contact@harry-yu.com  
-💼 Check out my website: [www.harry-yu.com](https://www.harry-yu.com)  
+💼 Check out my website: [harry-yu.com](https://harry-yu.com)  
